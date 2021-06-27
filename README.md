@@ -4,3 +4,4 @@ The code for the hardware device is written using arduino software
 The code for the apk is written using mit app inventor  
 You can install the software and check for live location  
 If u have the components then upload the code to the board and you can use it  
+All the necessary ppt,softwares are included in this repository
